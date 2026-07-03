@@ -27,10 +27,8 @@
 
 ---
 
-## 👋 The Short Version
-
 > I turn **50M+ rows of raw noise** into the two or three numbers a leadership team actually acts on.
-> Five years, two continents, two clouds — same obsession: make the data *say something useful.*
+> Five years, two continents, two clouds - same obsession: make the data *say something useful.*
 
 I'm a **Data Analyst** who lives at the seam between the warehouse and the boardroom. SQL and Python on one side, executives asking "so what?" on the other. Lately I've been teaching the old BI playbook a few new tricks with **Generative AI and Copilot**.
 
@@ -64,20 +62,20 @@ I'm a **Data Analyst** who lives at the seam between the warehouse and the board
 
 ---
 
-## 🧭 The Pivot Point — *how the story actually goes*
+## 🧭 The Pivot Point - *how the story actually goes*
 
-Most résumés read like a list of jobs. Mine reads like a migration — of geography, of cloud, and of what "analytics" even means.
+Most résumés read like a list of jobs. Mine reads like a migration - of geography, of cloud, and of what "analytics" even means.
 
-**Act I · Infosys, India (2020–2023) — Learning to consolidate.**
-I cut my teeth modernizing enterprise BI on **Azure** — stitching ERP, CRM, and finance systems into a single Data Lake, wiring up ADF + Databricks pipelines, and shipping Tableau dashboards that cut report generation time by 60%. This is where I learned that the hard part isn't the query; it's getting five systems to agree on what "revenue" means.
+**Act I · Infosys, India (2020–2023) - Learning to consolidate.**
+I cut my teeth modernizing enterprise BI on **Azure** - stitching ERP, CRM, and finance systems into a single Data Lake, wiring up ADF + Databricks pipelines, and shipping Tableau dashboards that cut report generation time by 60%. This is where I learned that the hard part isn't the query; it's getting five systems to agree on what "revenue" means.
 
-**Act II · The leap (2023–2025) — Betting on myself.**
+**Act II · The leap (2023–2025) - Betting on myself.**
 I moved to the United States for an **M.S. in Computer Science at Oklahoma City University**. New country, new stack, deeper foundations. The academic projects (churn prediction, sales forecasting) were where I stopped just *reporting* the past and started *predicting* the future.
 
-**Act III · Amazon, USA (2024–present) — Analytics that thinks ahead.**
-Now I build customer-intelligence and revenue-optimization analytics on **AWS** for 1,000+ business users — predictive demand forecasting, executive scorecards, and increasingly **AI-augmented** workflows using Generative AI, OpenAI, and Copilot.
+**Act III · Amazon, USA (2024–present) - Analytics that thinks ahead.**
+Now I build customer-intelligence and revenue-optimization analytics on **AWS** for 1,000+ business users - predictive demand forecasting, executive scorecards, and increasingly **AI-augmented** workflows using Generative AI, OpenAI, and Copilot.
 
-**The through-line:** *Azure → AWS. Reactive reporting → predictive modeling. Dashboards → decisions.* I didn't switch careers — I kept upgrading the same one.
+**The through-line:** *Azure → AWS. Reactive reporting → predictive modeling. Dashboards → decisions.* I didn't switch careers - I kept upgrading the same one.
 
 ---
 
@@ -85,7 +83,7 @@ Now I build customer-intelligence and revenue-optimization analytics on **AWS** 
 
 ```text
 ▹ Customer Intelligence & Revenue Optimization on AWS (Redshift · QuickSight · Glue)
-▹ Predictive demand-forecasting models (Python · PySpark) — +18% accuracy
+▹ Predictive demand-forecasting models (Python · PySpark) - +18% accuracy
 ▹ Baking Generative AI + Copilot into everyday analytics workflows
 ▹ Automating ETL so humans never touch a manual report again (Airflow · dbt)
 ```
@@ -124,7 +122,7 @@ Now I build customer-intelligence and revenue-optimization analytics on **AWS** 
 
 ## 🎚️ Where I Sit On The Stack
 
-<em>Not a language list — an honest read on depth.</em>
+<em>Not a language list - an honest read on depth.</em>
 
 | Craft | Depth | |
 |---|---|---|
@@ -166,20 +164,6 @@ Now I build customer-intelligence and revenue-optimization analytics on **AWS** 
 </table>
 
 ---
-
-## 📌 GitHub Stats
-
-<!-- These pull live from your account once {{GITHUB_USERNAME}} is set. -->
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username={{GITHUB_USERNAME}}&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=A371F7&text_color=C9D1D9" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username={{GITHUB_USERNAME}}&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user={{GITHUB_USERNAME}}&hide_border=true&background=0D1117&stroke=A371F7&ring=58A6FF&fire=39D0D8&currStreakLabel=58A6FF" alt="Streak"/>
-</p>
-
----
-
 ## 🌱 Outside the Code
 
 <!-- The résumé didn't list hobbies, so these are placeholders.
@@ -196,25 +180,22 @@ Now I build customer-intelligence and revenue-optimization analytics on **AWS** 
 ## 🤝 Quick Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/{{LINKEDIN_HANDLE}}">
+  <a href="https://www.linkedin.com/in/katta-keerthana-reddy/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:keerthanareddy0103@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="{{PORTFOLIO_URL}}">
+  <!--<a href="{{PORTFOLIO_URL}}">
     <img src="https://img.shields.io/badge/Portfolio-39D0D8?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
   </a>
-  <a href="{{TWITTER_URL}}">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-</p>
+</p>-->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username={{GITHUB_USERNAME}}&label=Profile%20views&color=58A6FF&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=kattakeerthnareddy&label=Profile%20views&color=58A6FF&style=flat-square" alt="Profile views"/>
 </p>
 
-<p align="center"><sub>“Data is only as good as the decision it unlocks.” — thanks for stopping by 👋</sub></p>
+<p align="center"><sub>“Data is only as good as the decision it unlocks.” - thanks for stopping by 👋</sub></p>
 
 <!--
   ══════════════════════════════════════════════════════════════════
