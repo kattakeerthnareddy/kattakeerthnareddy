@@ -10,11 +10,11 @@
 <!-- The banner.svg must live in your repo (or be hosted) for this to render.
      Once pushed, GitHub serves it and the animation plays. -->
 <p align="center">
-  <img src="./banner.svg" alt="Keerthana Reddy Katta — Data Analyst" width="100%" />
+  <img src="./banner.svg" alt="Keerthana Reddy Katta - Data Analyst" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/{{LINKEDIN_HANDLE}}">
+  <a href="https://www.linkedin.com/in/katta-keerthana-reddy/">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
   </a>
   <a href="mailto:keerthanareddy0103@gmail.com">
