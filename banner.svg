@@ -1,0 +1,107 @@
+<svg viewBox="0 0 1200 340" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Keerthana Reddy Katta — Data Analyst neural network banner">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="55%" stop-color="#A371F7"/>
+      <stop offset="100%" stop-color="#39D0D8"/>
+    </linearGradient>
+    <linearGradient id="edgegrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#A371F7" stop-opacity="0.35"/>
+    </linearGradient>
+    <radialGradient id="insightGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#39D0D8" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#39D0D8" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="340" fill="#0D1117"/>
+  <g opacity="0.5"><circle cx="40" cy="40" r="1" fill="#30363D"/><circle cx="40" cy="100" r="1" fill="#30363D"/><circle cx="40" cy="160" r="1" fill="#30363D"/><circle cx="40" cy="220" r="1" fill="#30363D"/><circle cx="40" cy="280" r="1" fill="#30363D"/><circle cx="100" cy="40" r="1" fill="#30363D"/><circle cx="100" cy="100" r="1" fill="#30363D"/><circle cx="100" cy="160" r="1" fill="#30363D"/><circle cx="100" cy="220" r="1" fill="#30363D"/><circle cx="100" cy="280" r="1" fill="#30363D"/><circle cx="160" cy="40" r="1" fill="#30363D"/><circle cx="160" cy="100" r="1" fill="#30363D"/><circle cx="160" cy="160" r="1" fill="#30363D"/><circle cx="160" cy="220" r="1" fill="#30363D"/><circle cx="160" cy="280" r="1" fill="#30363D"/><circle cx="220" cy="40" r="1" fill="#30363D"/><circle cx="220" cy="100" r="1" fill="#30363D"/><circle cx="220" cy="160" r="1" fill="#30363D"/><circle cx="220" cy="220" r="1" fill="#30363D"/><circle cx="220" cy="280" r="1" fill="#30363D"/><circle cx="280" cy="40" r="1" fill="#30363D"/><circle cx="280" cy="100" r="1" fill="#30363D"/><circle cx="280" cy="160" r="1" fill="#30363D"/><circle cx="280" cy="220" r="1" fill="#30363D"/><circle cx="280" cy="280" r="1" fill="#30363D"/><circle cx="340" cy="40" r="1" fill="#30363D"/><circle cx="340" cy="100" r="1" fill="#30363D"/><circle cx="340" cy="160" r="1" fill="#30363D"/><circle cx="340" cy="220" r="1" fill="#30363D"/><circle cx="340" cy="280" r="1" fill="#30363D"/><circle cx="400" cy="40" r="1" fill="#30363D"/><circle cx="400" cy="100" r="1" fill="#30363D"/><circle cx="400" cy="160" r="1" fill="#30363D"/><circle cx="400" cy="220" r="1" fill="#30363D"/><circle cx="400" cy="280" r="1" fill="#30363D"/><circle cx="460" cy="40" r="1" fill="#30363D"/><circle cx="460" cy="100" r="1" fill="#30363D"/><circle cx="460" cy="160" r="1" fill="#30363D"/><circle cx="460" cy="220" r="1" fill="#30363D"/><circle cx="460" cy="280" r="1" fill="#30363D"/><circle cx="520" cy="40" r="1" fill="#30363D"/><circle cx="520" cy="100" r="1" fill="#30363D"/><circle cx="520" cy="160" r="1" fill="#30363D"/><circle cx="520" cy="220" r="1" fill="#30363D"/><circle cx="520" cy="280" r="1" fill="#30363D"/><circle cx="580" cy="40" r="1" fill="#30363D"/><circle cx="580" cy="100" r="1" fill="#30363D"/><circle cx="580" cy="160" r="1" fill="#30363D"/><circle cx="580" cy="220" r="1" fill="#30363D"/><circle cx="580" cy="280" r="1" fill="#30363D"/><circle cx="640" cy="40" r="1" fill="#30363D"/><circle cx="640" cy="100" r="1" fill="#30363D"/><circle cx="640" cy="160" r="1" fill="#30363D"/><circle cx="640" cy="220" r="1" fill="#30363D"/><circle cx="640" cy="280" r="1" fill="#30363D"/><circle cx="700" cy="40" r="1" fill="#30363D"/><circle cx="700" cy="100" r="1" fill="#30363D"/><circle cx="700" cy="160" r="1" fill="#30363D"/><circle cx="700" cy="220" r="1" fill="#30363D"/><circle cx="700" cy="280" r="1" fill="#30363D"/><circle cx="760" cy="40" r="1" fill="#30363D"/><circle cx="760" cy="100" r="1" fill="#30363D"/><circle cx="760" cy="160" r="1" fill="#30363D"/><circle cx="760" cy="220" r="1" fill="#30363D"/><circle cx="760" cy="280" r="1" fill="#30363D"/><circle cx="820" cy="40" r="1" fill="#30363D"/><circle cx="820" cy="100" r="1" fill="#30363D"/><circle cx="820" cy="160" r="1" fill="#30363D"/><circle cx="820" cy="220" r="1" fill="#30363D"/><circle cx="820" cy="280" r="1" fill="#30363D"/><circle cx="880" cy="40" r="1" fill="#30363D"/><circle cx="880" cy="100" r="1" fill="#30363D"/><circle cx="880" cy="160" r="1" fill="#30363D"/><circle cx="880" cy="220" r="1" fill="#30363D"/><circle cx="880" cy="280" r="1" fill="#30363D"/><circle cx="940" cy="40" r="1" fill="#30363D"/><circle cx="940" cy="100" r="1" fill="#30363D"/><circle cx="940" cy="160" r="1" fill="#30363D"/><circle cx="940" cy="220" r="1" fill="#30363D"/><circle cx="940" cy="280" r="1" fill="#30363D"/><circle cx="1000" cy="40" r="1" fill="#30363D"/><circle cx="1000" cy="100" r="1" fill="#30363D"/><circle cx="1000" cy="160" r="1" fill="#30363D"/><circle cx="1000" cy="220" r="1" fill="#30363D"/><circle cx="1000" cy="280" r="1" fill="#30363D"/><circle cx="1060" cy="40" r="1" fill="#30363D"/><circle cx="1060" cy="100" r="1" fill="#30363D"/><circle cx="1060" cy="160" r="1" fill="#30363D"/><circle cx="1060" cy="220" r="1" fill="#30363D"/><circle cx="1060" cy="280" r="1" fill="#30363D"/><circle cx="1120" cy="40" r="1" fill="#30363D"/><circle cx="1120" cy="100" r="1" fill="#30363D"/><circle cx="1120" cy="160" r="1" fill="#30363D"/><circle cx="1120" cy="220" r="1" fill="#30363D"/><circle cx="1120" cy="280" r="1" fill="#30363D"/><circle cx="1180" cy="40" r="1" fill="#30363D"/><circle cx="1180" cy="100" r="1" fill="#30363D"/><circle cx="1180" cy="160" r="1" fill="#30363D"/><circle cx="1180" cy="220" r="1" fill="#30363D"/><circle cx="1180" cy="280" r="1" fill="#30363D"/></g>
+  <g stroke="url(#edgegrad)" stroke-width="1.2" fill="none">
+    <line x1="150" y1="110" x2="400" y2="80"/>
+    <line x1="150" y1="110" x2="400" y2="145"/>
+    <line x1="150" y1="110" x2="400" y2="210"/>
+    <line x1="150" y1="110" x2="400" y2="275"/>
+    <line x1="150" y1="175" x2="400" y2="80"/>
+    <line x1="150" y1="175" x2="400" y2="145"/>
+    <line x1="150" y1="175" x2="400" y2="210"/>
+    <line x1="150" y1="175" x2="400" y2="275"/>
+    <line x1="150" y1="240" x2="400" y2="80"/>
+    <line x1="150" y1="240" x2="400" y2="145"/>
+    <line x1="150" y1="240" x2="400" y2="210"/>
+    <line x1="150" y1="240" x2="400" y2="275"/>
+    <line x1="400" y1="80" x2="650" y2="80"/>
+    <line x1="400" y1="80" x2="650" y2="145"/>
+    <line x1="400" y1="80" x2="650" y2="210"/>
+    <line x1="400" y1="80" x2="650" y2="275"/>
+    <line x1="400" y1="145" x2="650" y2="80"/>
+    <line x1="400" y1="145" x2="650" y2="145"/>
+    <line x1="400" y1="145" x2="650" y2="210"/>
+    <line x1="400" y1="145" x2="650" y2="275"/>
+    <line x1="400" y1="210" x2="650" y2="80"/>
+    <line x1="400" y1="210" x2="650" y2="145"/>
+    <line x1="400" y1="210" x2="650" y2="210"/>
+    <line x1="400" y1="210" x2="650" y2="275"/>
+    <line x1="400" y1="275" x2="650" y2="80"/>
+    <line x1="400" y1="275" x2="650" y2="145"/>
+    <line x1="400" y1="275" x2="650" y2="210"/>
+    <line x1="400" y1="275" x2="650" y2="275"/>
+    <line x1="650" y1="80" x2="900" y2="110"/>
+    <line x1="650" y1="80" x2="900" y2="175"/>
+    <line x1="650" y1="80" x2="900" y2="240"/>
+    <line x1="650" y1="145" x2="900" y2="110"/>
+    <line x1="650" y1="145" x2="900" y2="175"/>
+    <line x1="650" y1="145" x2="900" y2="240"/>
+    <line x1="650" y1="210" x2="900" y2="110"/>
+    <line x1="650" y1="210" x2="900" y2="175"/>
+    <line x1="650" y1="210" x2="900" y2="240"/>
+    <line x1="650" y1="275" x2="900" y2="110"/>
+    <line x1="650" y1="275" x2="900" y2="175"/>
+    <line x1="650" y1="275" x2="900" y2="240"/>
+    <line x1="900" y1="110" x2="1080" y2="175"/>
+    <line x1="900" y1="175" x2="1080" y2="175"/>
+    <line x1="900" y1="240" x2="1080" y2="175"/>
+  </g>
+  <g fill="#39D0D8">
+    <circle r="2.6" opacity="0.9"><animate attributeName="cx" values="400;650" dur="3.15s" begin="0.84s" repeatCount="indefinite"/><animate attributeName="cy" values="210;80" dur="3.15s" begin="0.84s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="3.15s" begin="0.84s" repeatCount="indefinite"/></circle>
+    <circle r="2.6" opacity="0.9"><animate attributeName="cx" values="150;400" dur="3.39s" begin="0.21s" repeatCount="indefinite"/><animate attributeName="cy" values="240;145" dur="3.39s" begin="0.21s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="3.39s" begin="0.21s" repeatCount="indefinite"/></circle>
+    <circle r="2.6" opacity="0.9"><animate attributeName="cx" values="400;650" dur="3.42s" begin="3.32s" repeatCount="indefinite"/><animate attributeName="cy" values="275;145" dur="3.42s" begin="3.32s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="3.42s" begin="3.32s" repeatCount="indefinite"/></circle>
+    <circle r="2.6" opacity="0.9"><animate attributeName="cx" values="150;400" dur="3.54s" begin="2.04s" repeatCount="indefinite"/><animate attributeName="cy" values="110;275" dur="3.54s" begin="2.04s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="3.54s" begin="2.04s" repeatCount="indefinite"/></circle>
+    <circle r="2.6" opacity="0.9"><animate attributeName="cx" values="150;400" dur="2.51s" begin="2.05s" repeatCount="indefinite"/><animate attributeName="cy" values="175;80" dur="2.51s" begin="2.05s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="2.51s" begin="2.05s" repeatCount="indefinite"/></circle>
+    <circle r="2.6" opacity="0.9"><animate attributeName="cx" values="650;900" dur="2.49s" begin="0.77s" repeatCount="indefinite"/><animate attributeName="cy" values="210;110" dur="2.49s" begin="0.77s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="2.49s" begin="0.77s" repeatCount="indefinite"/></circle>
+    <circle r="2.6" opacity="0.9"><animate attributeName="cx" values="150;400" dur="3.4s" begin="0.47s" repeatCount="indefinite"/><animate attributeName="cy" values="175;210" dur="3.4s" begin="0.47s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="3.4s" begin="0.47s" repeatCount="indefinite"/></circle>
+    <circle r="2.6" opacity="0.9"><animate attributeName="cx" values="400;650" dur="3.15s" begin="1.89s" repeatCount="indefinite"/><animate attributeName="cy" values="210;275" dur="3.15s" begin="1.89s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="3.15s" begin="1.89s" repeatCount="indefinite"/></circle>
+    <circle r="2.6" opacity="0.9"><animate attributeName="cx" values="650;900" dur="3.43s" begin="1.96s" repeatCount="indefinite"/><animate attributeName="cy" values="275;240" dur="3.43s" begin="1.96s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="3.43s" begin="1.96s" repeatCount="indefinite"/></circle>
+    <circle r="2.6" opacity="0.9"><animate attributeName="cx" values="650;900" dur="3.63s" begin="0.36s" repeatCount="indefinite"/><animate attributeName="cy" values="145;175" dur="3.63s" begin="0.36s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="3.63s" begin="0.36s" repeatCount="indefinite"/></circle>
+    <circle r="2.6" opacity="0.9"><animate attributeName="cx" values="400;650" dur="3.43s" begin="0.66s" repeatCount="indefinite"/><animate attributeName="cy" values="80;145" dur="3.43s" begin="0.66s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="3.43s" begin="0.66s" repeatCount="indefinite"/></circle>
+    <circle r="2.6" opacity="0.9"><animate attributeName="cx" values="150;400" dur="2.58s" begin="2.49s" repeatCount="indefinite"/><animate attributeName="cy" values="110;210" dur="2.58s" begin="2.49s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="2.58s" begin="2.49s" repeatCount="indefinite"/></circle>
+    <circle r="2.6" opacity="0.9"><animate attributeName="cx" values="650;900" dur="3.42s" begin="2.17s" repeatCount="indefinite"/><animate attributeName="cy" values="145;110" dur="3.42s" begin="2.17s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="3.42s" begin="2.17s" repeatCount="indefinite"/></circle>
+    <circle r="2.6" opacity="0.9"><animate attributeName="cx" values="650;900" dur="3.29s" begin="1.86s" repeatCount="indefinite"/><animate attributeName="cy" values="145;240" dur="3.29s" begin="1.86s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="3.29s" begin="1.86s" repeatCount="indefinite"/></circle>
+  </g>
+  <g>
+    <circle cx="150" cy="110" r="6" fill="#161B22" stroke="url(#accent)" stroke-width="1.6"><animate attributeName="r" values="6;7.8;6" dur="3.2s" begin="1.94s" repeatCount="indefinite"/></circle>
+    <circle cx="150" cy="175" r="6" fill="#161B22" stroke="url(#accent)" stroke-width="1.6"><animate attributeName="r" values="6;7.8;6" dur="3.04s" begin="2.31s" repeatCount="indefinite"/></circle>
+    <circle cx="150" cy="240" r="6" fill="#161B22" stroke="url(#accent)" stroke-width="1.6"><animate attributeName="r" values="6;7.8;6" dur="2.77s" begin="0.62s" repeatCount="indefinite"/></circle>
+    <circle cx="400" cy="80" r="6" fill="#161B22" stroke="url(#accent)" stroke-width="1.6"><animate attributeName="r" values="6;7.8;6" dur="2.62s" begin="1.95s" repeatCount="indefinite"/></circle>
+    <circle cx="400" cy="145" r="6" fill="#161B22" stroke="url(#accent)" stroke-width="1.6"><animate attributeName="r" values="6;7.8;6" dur="3.24s" begin="0.75s" repeatCount="indefinite"/></circle>
+    <circle cx="400" cy="210" r="6" fill="#161B22" stroke="url(#accent)" stroke-width="1.6"><animate attributeName="r" values="6;7.8;6" dur="3.17s" begin="0.86s" repeatCount="indefinite"/></circle>
+    <circle cx="400" cy="275" r="6" fill="#161B22" stroke="url(#accent)" stroke-width="1.6"><animate attributeName="r" values="6;7.8;6" dur="2.61s" begin="1.52s" repeatCount="indefinite"/></circle>
+    <circle cx="650" cy="80" r="6" fill="#161B22" stroke="url(#accent)" stroke-width="1.6"><animate attributeName="r" values="6;7.8;6" dur="2.75s" begin="1.28s" repeatCount="indefinite"/></circle>
+    <circle cx="650" cy="145" r="6" fill="#161B22" stroke="url(#accent)" stroke-width="1.6"><animate attributeName="r" values="6;7.8;6" dur="3.9s" begin="0.86s" repeatCount="indefinite"/></circle>
+    <circle cx="650" cy="210" r="6" fill="#161B22" stroke="url(#accent)" stroke-width="1.6"><animate attributeName="r" values="6;7.8;6" dur="3.94s" begin="1.05s" repeatCount="indefinite"/></circle>
+    <circle cx="650" cy="275" r="6" fill="#161B22" stroke="url(#accent)" stroke-width="1.6"><animate attributeName="r" values="6;7.8;6" dur="3.34s" begin="0.19s" repeatCount="indefinite"/></circle>
+    <circle cx="900" cy="110" r="6" fill="#161B22" stroke="url(#accent)" stroke-width="1.6"><animate attributeName="r" values="6;7.8;6" dur="3.73s" begin="1.97s" repeatCount="indefinite"/></circle>
+    <circle cx="900" cy="175" r="6" fill="#161B22" stroke="url(#accent)" stroke-width="1.6"><animate attributeName="r" values="6;7.8;6" dur="3.03s" begin="0.85s" repeatCount="indefinite"/></circle>
+    <circle cx="900" cy="240" r="6" fill="#161B22" stroke="url(#accent)" stroke-width="1.6"><animate attributeName="r" values="6;7.8;6" dur="3.7s" begin="1.24s" repeatCount="indefinite"/></circle>
+    <circle cx="1080" cy="175" r="34" fill="url(#insightGlow)"/>
+    <circle cx="1080" cy="175" r="9" fill="url(#accent)" stroke="#39D0D8" stroke-width="1.6"><animate attributeName="r" values="9;10.8;9" dur="2.64s" begin="0.17s" repeatCount="indefinite"/></circle>
+  </g>
+  <text x="150" y="300" text-anchor="middle" font-family="Consolas,Monaco,monospace" font-size="12" fill="#8B949E" letter-spacing="2">RAW&#160;DATA</text>
+  <text x="1080" y="300" text-anchor="middle" font-family="Consolas,Monaco,monospace" font-size="12" fill="#39D0D8" letter-spacing="2">INSIGHT</text>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="600" y="150" text-anchor="middle" font-size="60" font-weight="800" fill="url(#accent)">Keerthana Reddy Katta</text>
+    <text x="600" y="192" text-anchor="middle" font-size="21" font-weight="500" fill="#C9D1D9" letter-spacing="1">Data Analyst&#160;&#160;•&#160;&#160;BI, Cloud &amp; AI-Powered Analytics</text>
+  </g>
+</svg>
