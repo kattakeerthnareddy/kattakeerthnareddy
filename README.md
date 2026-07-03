@@ -135,35 +135,6 @@ Now I build customer-intelligence and revenue-optimization analytics on **AWS** 
 | **Generative AI in Analytics** | `██████░░░░` | Intermediate → Growing |
 
 ---
-
-## 🚀 Featured Work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔮 Customer Churn Prediction Platform</h3>
-      <p>ML churn model on <b>500K+ customer records</b> hitting <b>85% accuracy</b>, with Power BI risk-score dashboards and cohort analysis on Snowflake.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt=""/>
-        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt=""/>
-        <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt=""/>
-        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt=""/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📈 Sales Forecasting & Revenue Analytics</h3>
-      <p>Time-series forecasting in Python plus interactive Tableau dashboards for regional KPIs and revenue trends — built to drive quarterly planning.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt=""/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt=""/>
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt=""/>
-        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt=""/>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
 ## 🌱 Outside the Code
 
 <!-- The résumé didn't list hobbies, so these are placeholders.
